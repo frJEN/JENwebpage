@@ -4,14 +4,15 @@
 
 body {
   font-family: 'Source Serif 4', serif;
-  font-size: 150%;
-  line-height: 1.2em;
+  font-size: 120%;
+  line-height: 1.4em;
   color: #454545;
   margin-top: 10vh;
   margin-left: 10vw;
   margin-right: 10vw;
   margin-bottom: 10vh;
-  max-width: 720px;
+  max-width: 900px;
+  padding: 0 1rem;
 }
 
 h1 {
